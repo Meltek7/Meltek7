@@ -57,7 +57,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-- ⚡ Also, another fun fact about me -> I try to javascript rate and not break streak! Please motivate me! Thanks 🖖🏻
+- ⚡ Also, another fun fact about me -> I try to rise javascript rate and not break streak! Please motivate me! Thanks 🖖🏻
 <!--
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
