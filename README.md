@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning -> JavaScript, React, HTML&CSS, PHP, Machine Learning, Python
 
-- ⚡ Fun fact -> I love reading, smeeling air, watching clouds, learning, sharing and a cup of coffee when I fixed a bug, actually all about life!
+- ⚡ Fun fact -> I love reading everything, watching good films, smeeling air, watching clouds, learning, sharing and a cup of coffee when I fixed a bug, actually all about life!
 
-- 📫 How to connect me -> **meltemtekeli7@gmail.com**
+- 📫 How to connect with me -> **meltemtekeli7@gmail.com**
 
-<h3 align="left">Also, you can reach with me:</h3> <p align="center">
+<h3 align="left">Also, you can reach me:</h3> <p align="center">
   <a href="https://www.linkedin.com/in/meltemtekeliakdag/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="meltem tekeli" height="30" width="40" /></a>
@@ -38,34 +38,26 @@
       alt="pandas" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </p>
-<br>
 <h3 align="left">Languages for Machine Learning / MS Degree:</h3>
 <p align="center"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
       alt="pandas" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> </p>
-<br>
-
 <h3>Statistical Data : </h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Meltek7&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Meltek7" 
     bg_color=#808080/></p>
 
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Meltek7&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Meltek7&hide=stars,issues,contribs&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Meltek7" /></p>
-
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Meltek7&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="meltek" /></p>
 
-<br>
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+- ⚡ Also, another fun fact about me -> I try to javascript rate and not break streak! Please motivate me! Thanks 🖖🏻
 <!--
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
