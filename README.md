@@ -57,7 +57,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<a href="https://app.daily.dev/Meltek"><img src="https://api.daily.dev/devcards/4050d1bc60c64eb8a4d5a6082fa439d2.png?r=vv7" width="400" alt="Meltem Tekeli Akdağ's Dev Card"/></a>
+<a href="https://app.daily.dev/Meltek"><img src="https://github.com/Meltek7/Meltek7/blob/master/devcard.svg" width="400" alt="Meltem Tekeli Akdağ's Dev Card"/></a>
 
 - ⚡ Also, another fun fact about me -> I try to rise javascript rate and not break streak! Please motivate me! Thanks 🖖🏻
 <!--
